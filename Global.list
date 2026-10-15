@@ -1,6 +1,7 @@
 # NAME: Global
 
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,ginibond.cc.cd
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -27789,7 +27790,7 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
-
+DOMAIN-SUFFIX,tgbot-sub.sharewithyou.dpdns.org
 
 
 # DOMAIN-KEYWORD
@@ -27876,7 +27877,7 @@ USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
 
 # IP-CIDR
-
+IP-CIDR,139.185.43.29/32
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
@@ -27992,6 +27993,7 @@ IP-CIDR,208.43.0.0/16,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
+
 
 # IP-CIDR6
 
