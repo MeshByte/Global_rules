@@ -1,7 +1,6 @@
 # NAME: Global
 
 # DOMAIN-SUFFIX
-DOMAIN-SUFFIX,ginibond.cc.cd
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -10434,6 +10433,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,gitgud.io
+DOMAIN-SUFFIX,ginibond.cc.cd
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github-api.arkoselabs.com
 DOMAIN-SUFFIX,github.ai
