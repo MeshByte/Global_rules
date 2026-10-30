@@ -27881,6 +27881,7 @@ USER-AGENT,YouTubeMusic*
 # IP-CIDR
 IP-CIDR,139.185.43.29/32
 IP-CIDR,1.201.0.0/24,no-resolve
+IP-CIDR,206.212.244.23/32,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
